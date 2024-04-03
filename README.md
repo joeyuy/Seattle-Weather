@@ -1,4 +1,4 @@
-# Seattle-Weather
+# Precipitation in Seattle and New York
 Repository for DATA 3320 Project 1
 
 # Project Information
